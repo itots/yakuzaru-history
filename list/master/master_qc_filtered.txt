@@ -1,0 +1,42 @@
+seq_id	SampleID	BioProject	BioSample	Run	Sex	Species	Subspecies	Population	Cluster	Origin	IndividualID	FatherID	MotherID	MeanDepth	LowQuality	HighKinship	Source
+KJ-10	KJ-10	PRJDB38086	SAMD01707826	DRR803357	female	fuscata	fuscata	Kojima	West	wild				42.06			This study
+KJ-43	KJ-43	PRJDB38086	SAMD01707827	DRR803358	female	fuscata	fuscata	Kojima	West	wild				37.27			This study
+H18-50	H18-50	PRJDB38086	SAMD01707828	DRR803359	female	fuscata	fuscata	Nakatosa	West	wild				47.64			This study
+H20_113	H20_113	PRJDB38086	SAMD01707829	DRR803360	male	fuscata	fuscata	Nakatosa	West	wild				60.64			This study
+SM32	SM32	PRJDB38086	SAMD01707830	DRR803361	female	fuscata	fuscata	Shimokita	East	wild				39.27			This study
+SM43	SM43	PRJDB38086	SAMD01707831	DRR803362	male	fuscata	fuscata	Shimokita	East	wild				37.68			This study
+4894	4894	PRJDB38086	SAMD01707833	DRR803364	male	fuscata	fuscata	Takasakiyama	West	wild				45.47			This study
+YG-4	YG-4	PRJDB38086	SAMD01707834	DRR803365	female	fuscata	fuscata	Yamagata	East	wild				41.88			This study
+YG-5	YG-5	PRJDB38086	SAMD01707835	DRR803366	male	fuscata	fuscata	Yamagata	East	wild				41.47			This study
+Mfy-1823	Mfy-1823	PRJDB38086	SAMD01707836	DRR803367	female	fuscata	yakui	Yakushima	Yakushima	captive				46.99			This study
+Mfy-952	Mfy-952	PRJDB38086	SAMD01707837	DRR803368	female	fuscata	yakui	Yakushima	Yakushima	captive				47			This study
+Yaku_3	Yaku_3	PRJDB38086	SAMD01707838	DRR803369	female	fuscata	yakui	Yakushima	Yakushima	wild				42.61			This study
+Yaku-1	Yaku-1	PRJDB38086	SAMD01707839	DRR803370	female	fuscata	yakui	Yakushima	Yakushima	wild				38.39			This study
+Yaku-2	Yaku-2	PRJDB38086	SAMD01707840	DRR803371	female	fuscata	yakui	Yakushima	Yakushima	wild				45.06			This study
+Yaku-4	Yaku-4	PRJDB38086	SAMD01707841	DRR803372	male	fuscata	yakui	Yakushima	Yakushima	wild				45.2			This study
+Yaku-5	Yaku-5	PRJDB38086	SAMD01707842	DRR803373	male	fuscata	yakui	Yakushima	Yakushima	wild				50.41			This study
+DRR219373		PRJDB9555	SAMD00215312	DRR219373	male	cyclopis		Taiwan						38.42			Osada et al. (2021)
+SRR1944102		PRJNA251548	SAMN03264653	SRR1944102	female	mulatta		China						34.5			Xue et al. (2016)
+SRR1952123		PRJNA251548	SAMN03264730	SRR1952123	female	mulatta		China						35.02			Xue et al. (2016)
+SRR28315641		PRJNA382404	SAMN40420190	SRR28315641	female	mulatta		India						27.9			Ray et al. (2025)
+SRR28315650		PRJNA382404	SAMN40420182	SRR28315650	male	mulatta		India						21.47			Ray et al. (2025)
+SRR24738437		PRJNA976321	SAMN35365095	SRR24738437	female	fascicularis		Indonesia						23.68			Bailey et al. (2023)
+SRR24738440		PRJNA976321	SAMN35365092	SRR24738440	male	fascicularis		Indonesia						20.25			Bailey et al. (2023)
+SRR5019558		PRJNA345528	SAMN05883721	SRR5019558	male	mulatta	brevicaudus	Hainan			C_rhe_22			26.49			Liu et al. (2018)
+DRR461558		PRJDB15581	SAMD00589961	DRR461558	female	fuscata	fuscata	Hagachizaki	East	wild	164			54.11			Higashino et al. (2025)
+DRR461561		PRJDB15581	SAMD00589964	DRR461561	female	fuscata	fuscata	Hagachizaki	East	wild	175			41.31			Higashino et al. (2025)
+DRR461590		PRJDB15581	SAMD00589993	DRR461590	female	fuscata	fuscata	Jigokudani	East	wild	359			34.82			Higashino et al. (2025)
+DRR461595		PRJDB15581	SAMD00589998	DRR461595	male	fuscata	fuscata	Jigokudani	East	wild	366			34.88			Higashino et al. (2025)
+DRR461599		PRJDB15581	SAMD00590002	DRR461599	male	fuscata	fuscata	Jigokudani	East	wild	502	366	359	38.8		x	Higashino et al. (2025)
+DRR461544		PRJDB15581	SAMD00589947	DRR461544	male	fuscata	fuscata	Minoh	West	wild	100			42.31			Higashino et al. (2025)
+DRR461582		PRJDB15581	SAMD00589985	DRR461582	female	fuscata	fuscata	Minoh	West	wild	323			38.16			Higashino et al. (2025)
+DRR461600		PRJDB15581	SAMD00590003	DRR461600	male	fuscata	fuscata	Minoh	West	wild	717	100	323	44.91		x	Higashino et al. (2025)
+DRR461554		PRJDB15581	SAMD00589957	DRR461554	female	fuscata	fuscata	Okazaki	West	wild	136	1997	2007	40.65		x	Higashino et al. (2025)
+DRR461602		PRJDB15581	SAMD00590005	DRR461602	male	fuscata	fuscata	Okazaki	West	wild	1997			32.13			Higashino et al. (2025)
+DRR461604		PRJDB15581	SAMD00590007	DRR461604	female	fuscata	fuscata	Okazaki	West	wild	2007			33.61		x	Higashino et al. (2025)
+DRR461570		PRJDB15581	SAMD00589973	DRR461570	male	fuscata	fuscata	Tsubaki	West	wild	197			37.87			Higashino et al. (2025)
+DRR461571		PRJDB15581	SAMD00589974	DRR461571	female	fuscata	fuscata	Tsubaki	West	wild	202			34.58			Higashino et al. (2025)
+DRR461601		PRJDB15581	SAMD00590004	DRR461601	male	fuscata	fuscata	Tsubaki	West	wild	722	197	202	32.98		x	Higashino et al. (2025)
+SRR5019367		PRJNA345528	SAMN05883704	SRR5019367	female	mulatta	lasiotis	Sichuan			C_rhe_58			26.9			Liu et al. (2018)
+SRR5019559		PRJNA345528	SAMN05883701	SRR5019559	male	mulatta	littoralis	Hubei			C_rhe_21			29.9			Liu et al. (2018)
+SRR5019557		PRJNA345528	SAMN05883696	SRR5019557	female	mulatta	mulatta	Yunnan			C_rhe_72			27.27			Liu et al. (2018)

@@ -1,0 +1,24 @@
+Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+chr1	assembled-molecule	1	Chromosome	CM014336.1	=	NC_041754.1	Primary Assembly	223616942	na
+chr2	assembled-molecule	2	Chromosome	CM014337.1	=	NC_041755.1	Primary Assembly	196197964	na
+chr3	assembled-molecule	3	Chromosome	CM014338.1	=	NC_041756.1	Primary Assembly	185288947	na
+chr4	assembled-molecule	4	Chromosome	CM014339.1	=	NC_041757.1	Primary Assembly	169963040	na
+chr5	assembled-molecule	5	Chromosome	CM014340.1	=	NC_041758.1	Primary Assembly	187317192	na
+chr6	assembled-molecule	6	Chromosome	CM014341.1	=	NC_041759.1	Primary Assembly	179085566	na
+chr7	assembled-molecule	7	Chromosome	CM014342.1	=	NC_041760.1	Primary Assembly	169868564	na
+chr8	assembled-molecule	8	Chromosome	CM014343.1	=	NC_041761.1	Primary Assembly	145679320	na
+chr9	assembled-molecule	9	Chromosome	CM014344.1	=	NC_041762.1	Primary Assembly	134124166	na
+chr10	assembled-molecule	10	Chromosome	CM014345.1	=	NC_041763.1	Primary Assembly	99517758	na
+chr11	assembled-molecule	11	Chromosome	CM014346.1	=	NC_041764.1	Primary Assembly	133066086	na
+chr12	assembled-molecule	12	Chromosome	CM014347.1	=	NC_041765.1	Primary Assembly	130043856	na
+chr13	assembled-molecule	13	Chromosome	CM014348.1	=	NC_041766.1	Primary Assembly	108737130	na
+chr14	assembled-molecule	14	Chromosome	CM014349.1	=	NC_041767.1	Primary Assembly	128056306	na
+chr15	assembled-molecule	15	Chromosome	CM014350.1	=	NC_041768.1	Primary Assembly	113283604	na
+chr16	assembled-molecule	16	Chromosome	CM014351.1	=	NC_041769.1	Primary Assembly	79627064	na
+chr17	assembled-molecule	17	Chromosome	CM014352.1	=	NC_041770.1	Primary Assembly	95433459	na
+chr18	assembled-molecule	18	Chromosome	CM014353.1	=	NC_041771.1	Primary Assembly	74474043	na
+chr19	assembled-molecule	19	Chromosome	CM014354.1	=	NC_041772.1	Primary Assembly	58315233	na
+chr20	assembled-molecule	20	Chromosome	CM014355.1	=	NC_041773.1	Primary Assembly	77137495	na
+chrX	assembled-molecule	X	Chromosome	CM014356.1	=	NC_041774.1	Primary Assembly	153388924	na
+chrY	assembled-molecule	Y	Chromosome	CM003438.1	=	NC_027914.1	Primary Assembly	11753682	na
+MT	assembled-molecule	MT	Mitochondrion	na	<>	NC_005943.1	non-nuclear	16564	chrM
