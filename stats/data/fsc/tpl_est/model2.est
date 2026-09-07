@@ -1,0 +1,14 @@
+// Priors and rules file
+// *********************
+[PARAMETERS]
+//#isInt? #name #dist.#min #max
+//all Ns are in number of haploid individuals
+1 NCUR unif 200 20000 output
+1 TENL unif 10 1500 output
+1 TANC unif 2000 30000 output
+0 RESENL logunif 1 1e2 hide
+0 RESANC logunif 1 1e2 hide
+
+[COMPLEX PARAMETERS]
+1 NENL = NCUR * RESENL output
+1 NANC = NENL * RESANC output
