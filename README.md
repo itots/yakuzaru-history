@@ -10,7 +10,6 @@ Ito et al. "Genomic and phenotypic consequences of long-term isolation and small
 - `R/`: R scripts for statistical analyses and data visualization
 - `stats/data/coords/`: Four replicates of 3D cranial landmark coordinate data
 - `stats/data/fsc/`: Fastsimcoal2 template (`.tpl`) and estimation (`.est`) files for four demographic models
-- `ply/`: 3D mesh files (`.ply`) used for shape visualization
 
 ## Data Availability
 
