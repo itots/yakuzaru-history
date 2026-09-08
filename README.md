@@ -1,6 +1,6 @@
-# Data and Analysis Scripts for Ito et al.
+# Analysis Scripts for Ito et al.
 
-Data and analysis scripts for:
+Analysis scripts for:
 Ito et al. "Genomic and phenotypic consequences of long-term isolation and small population size in Yakushima macaques" (*In submission*)
 
 ## Repository Structure
@@ -11,4 +11,5 @@ Ito et al. "Genomic and phenotypic consequences of long-term isolation and small
 
 ## Data Availability
 
-Raw sequencing reads have been deposited in the DDBJ Sequence Read Archive under accession number **PRJDB38086**.
+- Raw sequencing reads have been deposited in the DDBJ Sequence Read Archive under accession number **PRJDB38086**.
+- Additional data and analysis scripts are available on Dryad (https://doi.org/10.5061/dryad.brv15dvrn).
